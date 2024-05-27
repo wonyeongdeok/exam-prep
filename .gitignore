@@ -1,0 +1,6 @@
+# Ignore Jupyter Notebook files
+*.ipynb_checkpoints
+
+# Ignore dataset
+# 빅데이터분석기사/Big Data Certification KR/dataset
+dataset
