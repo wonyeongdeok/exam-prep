@@ -7,3 +7,9 @@ dataset
 
 # Ignore csv file
 *.csv
+
+# Ignore json file
+.josn
+
+# Ignore catboost folder
+catboost
